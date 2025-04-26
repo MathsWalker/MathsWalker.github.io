@@ -13,7 +13,7 @@ title                    : "Idealsky / Personal Pages"
 title_separator          : "-"
 name                     : &name "Idealsky"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://MathsWalker.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -250,7 +250,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: 教学
     values:
       layout: single
       author_profile: true
